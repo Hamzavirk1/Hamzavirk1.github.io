@@ -10,10 +10,10 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: hamza.virk@hofstra.edu # your email address
+email: placeholder@email.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: Hamzavirk1 # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -27,14 +27,14 @@ email: hamza.virk@hofstra.edu # your email address
 linkedin_username: hamza-virk # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0000-0000-0000 # your ORCID ID (placeholder - should be updated with real ORCID)
+# orcid_id: 0000-0000-0000-0000 # your ORCID ID (placeholder - should be updated with real ORCID)
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: # your Google Scholar ID (to be updated with real ID)
+# rss_icon: true # comment this line to hide the RSS icon
+# scholar_userid: # your Google Scholar ID (to be updated with real ID)
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
