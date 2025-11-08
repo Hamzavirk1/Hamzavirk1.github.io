@@ -16,6 +16,11 @@ profile:
     <p>Office: TBD</p>
     <p>Hofstra University</p>
     <p>Hempstead, NY</p>
+    <p>
+      <a href="mailto:placeholder@email.com" class="btn btn-outline-primary btn-sm">Email</a>
+      <a href="https://www.linkedin.com/in/hamza-virk" class="btn btn-outline-primary btn-sm" target="_blank">LinkedIn</a>
+      <a href="https://github.com/Hamzavirk1" class="btn btn-outline-primary btn-sm" target="_blank">GitHub</a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
