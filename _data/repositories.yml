@@ -1,0 +1,13 @@
+github_users:
+  - torvalds
+  - sandroama
+
+repo_description_lines_max: 2
+
+github_repos:
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

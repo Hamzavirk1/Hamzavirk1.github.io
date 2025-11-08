@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions from site config (Liquid only works here with front matter)
+$max-content-width: {{ site.max_width }};
+
+// Module imports (migrated from deprecated @import)
+@use "variables";
+@use "themes";
+@use "layout" with ($max-content-width: $max-content-width);
+@use "base";
+@use "distill";
+@use "cv";
+@use "tabs";
+@use "typograms";
+
+// Font Awesome (compiled via its core entry)
+@use "font-awesome/fontawesome";
+
+// Tabler Icons
+@use "tabler-icons/tabler-icons" with ($ti-font-path: variables.$ti-font-path);
+@use "tabler-icons/tabler-icons-filled" with ($ti-font-path: variables.$ti-font-path);
+@use "tabler-icons/tabler-icons-outline" with ($ti-font-path: variables.$ti-font-path);
